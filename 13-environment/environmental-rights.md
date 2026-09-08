@@ -16,7 +16,7 @@
 
 ## Article 13.1.3 — Information and Participation
 
-1. Every person has the right of access to environmental information held by public bodies, in accordance with Article 21.3.5 (Open Data and Reuse).
+1. Every person has the right of access to environmental information held by public bodies, in accordance with Article 21.3.2 (Open-Data Default).
 2. The public shall be given early and effective opportunities to participate in the preparation of environmental plans, programs, and significant permitting decisions, and due account shall be taken of the participation.
 
 ## Article 13.1.4 — Access to Justice
@@ -38,4 +38,4 @@
 
 *Rather than restating the right, this section builds the machinery that makes Section 1.12 enforceable: standards with teeth, assessment before authorization, open information, and broad standing. Wide standing is the load-bearing choice, since environmental harm is diffuse and individual injury is often hard to prove; the cost rule prevents standing from becoming nominal. The procedural triad of information, participation, and justice parallels the structure of the Aarhus Convention of 1998.*
 
-**Cross-references:** Article 1.12.1 (Right to a Healthy Environment); Article 1.12.3 (Standing and Access to Justice); Article 21.3.5 (Open Data and Reuse).
+**Cross-references:** Article 1.12.1 (Right to a Healthy Environment); Article 1.12.3 (Standing and Access to Justice); Article 21.3.2 (Open-Data Default).

@@ -1,7 +1,7 @@
 # WC-240 · Policing Standards and Use of Force
 
-> **Part 10 — Security and International Order** · Document **240 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 39 — Security and International Extended** · Source: World Constitution v1.0 corpus, document 240/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** The rules of engagement at home: force, protest, custody
 
@@ -59,9 +59,8 @@ The standards chapter writes the hard operational lessons of the last decades in
 ## Cross-references
 
 - [WC-239 · The Police](239-police-organization.md)
-- [WC-022 · Freedom of Assembly](../02-rights-and-liberties/022-freedom-of-assembly.md)
-- [WC-117 · Prisoners' Rights and Prison Regime](../05-justice-and-penal-law/117-prisoners-rights.md)
-
+- [WC-022 · Freedom of Assembly](../02-rights-and-liberties/022-freedom-of-assembly.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-117 · Prisoners' Rights and Prison Regime](../05-justice-and-penal-law/117-prisoners-rights.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - Security-sector reform starts with parliamentary oversight and budget transparency before any new capabilities.
@@ -69,4 +68,4 @@ The standards chapter writes the hard operational lessons of the last decades in
 - War powers and intelligence warrants require the surveillance court; build it first.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

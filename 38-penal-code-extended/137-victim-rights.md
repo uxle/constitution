@@ -1,7 +1,7 @@
 # WC-137 · Rights of Victims
 
-> **Part 05 — Justice and Penal Law** · Document **137 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 38 — Penal Code Extended** · Source: World Constitution v1.0 corpus, document 137/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** Recognition, information, participation, protection, compensation
 
@@ -69,4 +69,4 @@ Systems that forget victims lose public cooperation and with it their evidence b
 - Decriminalisation lists take effect on day one; exoneration of prior convictions follows document 134's automatic procedure.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

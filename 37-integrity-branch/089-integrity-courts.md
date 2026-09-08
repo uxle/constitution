@@ -1,7 +1,7 @@
 # WC-089 · The Integrity Courts
 
-> **Part 04 — Integrity Branch - Zero Corruption** · Document **089 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 37 — Integrity Branch** · Source: World Constitution v1.0 corpus, document 089/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** Specialised, fast, expert judicial track for corruption cases
 
@@ -60,8 +60,7 @@ Specialised anti-corruption chambers have shown the speed and expertise advantag
 
 - [WC-088 · Prosecution of Corruption](088-corruption-prosecution.md)
 - [WC-092 · Confiscation and Domestic Recovery](092-confiscation-and-recovery.md)
-- [WC-067 · Structure of the Judiciary](../03-governance/067-judiciary-structure.md)
-
+- [WC-067 · Structure of the Judiciary](../03-governance/067-judiciary-structure.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - This Part is the zero-corruption architecture; it may be adopted alone as an organic statute where full constitutional reform is not yet possible.
@@ -69,4 +68,4 @@ Specialised anti-corruption chambers have shown the speed and expertise advantag
 - Expect resistance precisely where the old system was most profitable - that resistance is the diagnostic.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

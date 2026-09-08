@@ -1,7 +1,7 @@
 # WC-133 · Trafficking and Modern Slavery
 
-> **Part 05 — Justice and Penal Law** · Document **133 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 38 — Penal Code Extended** · Source: World Constitution v1.0 corpus, document 133/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** Exploitation as an offence with victim status, not immigration status
 
@@ -58,10 +58,9 @@ Trafficking law's historical failure was treating victims as immigration offende
 
 ## Cross-references
 
-- [WC-030 · Right to Work and Fair Labour](../02-rights-and-liberties/030-right-to-work.md)
-- [WC-130 · Organized Crime](130-organized-crime.md)
-- [WC-042 · Asylum and Refugee Rights](../02-rights-and-liberties/042-refugees-and-asylum.md)
-
+- [WC-030 · Right to Work and Fair Labour](../02-rights-and-liberties/030-right-to-work.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-130 · Organized Crime](130-organized-crime.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-042 · Asylum and Refugee Rights](../02-rights-and-liberties/042-refugees-and-asylum.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - Penal reform requires the sentencing council and the training of document 294 before new codes bite.
@@ -69,4 +68,4 @@ Trafficking law's historical failure was treating victims as immigration offende
 - Decriminalisation lists take effect on day one; exoneration of prior convictions follows document 134's automatic procedure.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

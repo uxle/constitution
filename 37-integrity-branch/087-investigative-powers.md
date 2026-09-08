@@ -1,7 +1,7 @@
 # WC-087 · Investigative Powers and Safeguards
 
-> **Part 04 — Integrity Branch - Zero Corruption** · Document **087 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 37 — Integrity Branch** · Source: World Constitution v1.0 corpus, document 087/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** The full toolkit with judges, clocks and remedies for abuse
 
@@ -60,8 +60,7 @@ Powerful investigators without safeguards become the corruption they hunt, so ev
 
 - [WC-084 · The Integrity Commission](084-integrity-commission.md)
 - [WC-088 · Prosecution of Corruption](088-corruption-prosecution.md)
-- [WC-026 · Privacy](../02-rights-and-liberties/026-privacy.md)
-
+- [WC-026 · Privacy](../02-rights-and-liberties/026-privacy.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - This Part is the zero-corruption architecture; it may be adopted alone as an organic statute where full constitutional reform is not yet possible.
@@ -69,4 +68,4 @@ Powerful investigators without safeguards become the corruption they hunt, so ev
 - Expect resistance precisely where the old system was most profitable - that resistance is the diagnostic.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

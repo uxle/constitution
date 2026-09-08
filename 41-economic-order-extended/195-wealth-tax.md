@@ -1,7 +1,7 @@
 # WC-195 · Wealth, Inheritance and Capital Taxes
 
-> **Part 08 — Economic Order** · Document **195 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 41 — Economic Order Extended** · Source: World Constitution v1.0 corpus, document 195/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** Taxing the stock, not just the flow
 
@@ -58,10 +58,9 @@ Taxing stocks as well as flows is the structural answer to the dynastic concentr
 
 ## Cross-references
 
-- [WC-148 · Succession and Inheritance](../06-civil-and-commercial-law/148-inheritance.md)
-- [WC-193 · Principles of Taxation](193-taxation-principles.md)
-- [WC-145 · Property and Things](../06-civil-and-commercial-law/145-property.md)
-
+- [WC-148 · Succession and Inheritance](../06-civil-and-commercial-law/148-inheritance.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-193 · Principles of Taxation](193-taxation-principles.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-145 · Property and Things](../06-civil-and-commercial-law/145-property.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - Fiscal rules require the independent fiscal council to be credible; appoint it before the first budget under the new regime.
@@ -69,4 +68,4 @@ Taxing stocks as well as flows is the structural answer to the dynastic concentr
 - The debt brake and the sovereign fund are intergenerational instruments; adopt them early, govern them forever.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

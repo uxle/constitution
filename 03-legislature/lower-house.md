@@ -18,9 +18,10 @@
 
 ## Article 3.2.3 — Eligibility
 
-1. Every citizen entitled to vote in elections to the Lower House shall be eligible for election.
+1. Every citizen entitled to vote in elections to the Lower House shall be eligible for election, subject to certification under Part 31 (Government Eligibility).
 2. The law may prescribe limited grounds of incompatibility between the mandate and other public functions.
 3. Incompatibilities shall be construed narrowly and shall serve only the integrity of the mandate.
+4. Certification under Part 31 is not itself an incompatibility within the meaning of clauses 2–3 and does not require separate authorization by law.
 
 ## Article 3.2.4 — Vacancies
 
@@ -39,4 +40,4 @@
 
 *Open-list proportional representation with a modest 3% threshold balances proportionality against governability; comparative practice, such as the five percent threshold of Germany, shows how sharply the chosen level shapes party fragmentation. List-order replacement keeps seats filled without fresh elections while preserving the preferences the voters actually expressed. The rules on self-dissolution and failed government formation leave control over the chamber's end with the chamber itself, not with the executive.*
 
-**Cross-references:** Article 3.4.1 (Timing of Elections); Article 4.2.1 (Election and Confidence); Article 3.1.2 (Composition).
+**Cross-references:** Article 3.4.1 (Timing of Elections); Article 4.2.1 (Election and Confidence); Article 3.1.2 (Composition); Part 31 (Government Eligibility).

@@ -2,6 +2,23 @@
 
 All notable changes to the World Constitution repository are documented here. The format follows the project's governance rules: Major.Minor.Patch, with substantive changes cross-referenced to `annexes/amendment-history.md`.
 
+## [1.0.1] — Corrections from editorial audit
+
+### Fixed (editorial — cross-reference and citation errors)
+
+- **Article 3.2.3 (Lower House Eligibility).** Added the missing cross-reference to Part 31 (Government Eligibility): the unqualified "every citizen entitled to vote is eligible for election" text directly contradicted Part 31's education/psychological/physical fitness gates, which require certification *before* a candidate's name may appear on a ballot. The two provisions are now reconciled.
+- **Articles 31.3, 31.4, 31.6 (Government Eligibility).** Corrected three broken or mislabeled cross-references to Part 00: "0.4 (Separation of Powers)" is actually Section 0.4 (Rule of Law) — separation of powers is Section 0.5; "0.3 (Founding: The Crown)" is actually Section 0.3 (Sovereignty); the 31.3 Design Note's "entrenchment rule in 0.5" pointed at Separation of Powers instead of the intended Section 30.5 (Protected Provisions).
+- **Articles 31.3, 31.4.** Corrected "41-disability rights" citations, which pointed at Part 41 (Economic Order Extended — no disability content), to the correct location at `28-special-populations/persons-with-disabilities.md`.
+- **Articles 36.1, 36.3, 42.12.** Corrected three citations of "1.2 (Freedom of Expression / Association)" — Section 1.2 is Equality — to the correct Section 1.3 (Freedom of Speech, Assembly, and Association).
+
+### Added (substantive — flagged for the entrenched-provision review track under `CONTRIBUTING.md`)
+
+- **Article 30.5.2(i).** Added the non-discrimination safeguards on government-eligibility testing (Articles 31.3.5, 31.4.4) and the independence of the Governance Eligibility Board (Article 31.1.4) to the entrenched-provisions list. Part 31's own Design Notes already asserted these safeguards were constitutionally entrenched against weakening amendments; they were not actually listed in Article 30.5.2, so the single most abuse-prone power in the text — a fitness test capable of disqualifying political rivals — carried no more protection than an ordinary statute. **This addition changes protected constitutional content and, per `CONTRIBUTING.md`, requires the 30-day comment period and three-maintainer approval before it may stand as adopted text; it is included here as a drafted proposal, not a ratified amendment.**
+
+### Not yet fixed (flagged, not corrected, in this pass)
+
+- **Word-count non-compliance.** `CONTRIBUTING.md` requires 350–500 words per section. All 14 sections in Part 42 run 89–160 words (under-length); most of Part 37's 26 sections run 500–711 words (over-length). Left unedited pending a decision on whether to expand Part 42 or split/trim Part 37, since both require drafting new substantive text rather than a mechanical fix.
+
 ## [1.0.0] — 2026-08-31 — Initial release
 
 ### Added

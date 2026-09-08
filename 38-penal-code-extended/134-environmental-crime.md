@@ -1,7 +1,7 @@
 # WC-134 · Environmental Crime and Ecocide
 
-> **Part 05 — Justice and Penal Law** · Document **134 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 38 — Penal Code Extended** · Source: World Constitution v1.0 corpus, document 134/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** Crimes against nature: pollution, wildlife, water, and ecocide
 
@@ -58,8 +58,8 @@ Environmental crime is typically a business model with a fine line item, so the 
 
 ## Cross-references
 
-- [WC-035 · Right to a Healthy Environment](../02-rights-and-liberties/035-right-to-environment.md)
-- [WC-226 · Climate Law](../09-society-and-environment/226-climate-law.md)
+- [WC-035 · Right to a Healthy Environment](../02-rights-and-liberties/035-right-to-environment.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-226 · Climate Law](../09-society-and-environment/226-climate-law.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 - [WC-135 · Corporate and White-Collar Crime](135-corporate-crime.md)
 
 ## Notes for adopting states
@@ -69,4 +69,4 @@ Environmental crime is typically a business model with a fine line item, so the 
 - Decriminalisation lists take effect on day one; exoneration of prior convictions follows document 134's automatic procedure.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

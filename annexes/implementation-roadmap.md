@@ -2,6 +2,8 @@
 
 *About this annex: this annex sets out a phased roadmap for bringing the Constitution into full operation, from entry into force to the first scheduled constitutional review. Milestones are relative to entry into force rather than tied to calendar dates, because the Constitution deliberately uses generic expressions of time.*
 
+**Coverage note (added in the v1.0.1 editorial audit):** This annex covers Parts 00–30 only. Parts 31–42 — Government Eligibility, Animal and Plant Rights, Hills/Mountains and Geography, Low Violence and Public Safety, Clean Cities and Sanitation, Media Integrity, the Integrity Branch, Penal Code Extended, Security and International Extended, Technology and Future Extended, Economic Order Extended, and Society and Culture Extended (116 files, roughly a third of the Constitution) — were merged into this edition without corresponding updates here, contrary to `CONTRIBUTING.md`'s synchronization requirement. This gap is flagged, not yet fixed.
+
 The roadmap serves two audiences. For the educator, it shows how a constitution's norms become a working state: institutions must exist before mandates can be exercised, and rights are justiciable from the first day even while implementing statutes lag behind. For the contributor, it identifies which Sections carry sequencing weight — the transition rules of Section 30.4, the establishment of courts and independent institutions, and the review mechanism of Section 25.4 — so that citations and classroom exercises can follow the same order.
 
 | Phase | Focus | Key actions | Anchor sections |

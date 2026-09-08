@@ -1,7 +1,7 @@
 # WC-099 · Public Procurement
 
-> **Part 04 — Integrity Branch - Zero Corruption** · Document **099 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 37 — Integrity Branch** · Source: World Constitution v1.0 corpus, document 099/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** Open contracting: the single largest corruption channel, closed
 
@@ -58,7 +58,7 @@ Procurement is where between ten and thirty percent of public investment is typi
 
 ## Cross-references
 
-- [WC-175 · Procurement Operations](../07-public-administration/175-procurement-operations.md)
+- [WC-175 · Procurement Operations](../07-public-administration/175-procurement-operations.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 - [WC-096 · Beneficial Ownership Transparency](096-beneficial-ownership.md)
 - [WC-108 · Corruption Offenses: Definitions and Grading](108-corruption-offenses.md)
 
@@ -69,4 +69,4 @@ Procurement is where between ten and thirty percent of public investment is typi
 - Expect resistance precisely where the old system was most profitable - that resistance is the diagnostic.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

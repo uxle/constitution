@@ -1,7 +1,7 @@
 # WC-094 · Journalists' Source Protection
 
-> **Part 04 — Integrity Branch - Zero Corruption** · Document **094 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 37 — Integrity Branch** · Source: World Constitution v1.0 corpus, document 094/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** The press as integrity institution: sources, seizures and surveillance
 
@@ -58,7 +58,7 @@ Investigative journalism is the integrity system of last resort, and its infrast
 
 ## Cross-references
 
-- [WC-021 · Press and Media Freedom](../02-rights-and-liberties/021-press-and-media-freedom.md)
+- [WC-021 · Press and Media Freedom](../02-rights-and-liberties/021-press-and-media-freedom.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 - [WC-093 · Whistleblower Protection and Rewards](093-whistleblower-protection.md)
 - [WC-095 · Open Government and Freedom of Information](095-open-government.md)
 
@@ -69,4 +69,4 @@ Investigative journalism is the integrity system of last resort, and its infrast
 - Expect resistance precisely where the old system was most profitable - that resistance is the diagnostic.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

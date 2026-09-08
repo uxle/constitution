@@ -1,7 +1,7 @@
 # WC-191 · The Public Debt Brake
 
-> **Part 08 — Economic Order** · Document **191 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 41 — Economic Order Extended** · Source: World Constitution v1.0 corpus, document 191/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** Structural balance by rule with escape clauses and transparency
 
@@ -58,10 +58,9 @@ The debt brake is the German-Swiss instrument with the EU's failed experiences a
 
 ## Cross-references
 
-- [WC-192 · Budget Rules and Fiscal Discipline](192-budget-rules.md)
-- [WC-046 · Rights of Future Generations](../02-rights-and-liberties/046-future-generations.md)
-- [WC-179 · Public Financial Management](../07-public-administration/179-public-financial-management.md)
-
+- [WC-192 · Budget Rules and Fiscal Discipline](192-budget-rules.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-046 · Rights of Future Generations](../02-rights-and-liberties/046-future-generations.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-179 · Public Financial Management](../07-public-administration/179-public-financial-management.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - Fiscal rules require the independent fiscal council to be credible; appoint it before the first budget under the new regime.
@@ -69,4 +68,4 @@ The debt brake is the German-Swiss instrument with the EU's failed experiences a
 - The debt brake and the sovereign fund are intergenerational instruments; adopt them early, govern them forever.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

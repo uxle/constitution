@@ -1,7 +1,7 @@
 # WC-085 · Commission Appointment and Tenure
 
-> **Part 04 — Integrity Branch - Zero Corruption** · Document **085 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 37 — Integrity Branch** · Source: World Constitution v1.0 corpus, document 085/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** How commissioners are chosen, protected and removed
 
@@ -59,7 +59,7 @@ Every serious regression story begins with the appointment capture of the integr
 ## Cross-references
 
 - [WC-083 · The Integrity Branch](083-integrity-branch.md)
-- [WC-071 · Judicial Appointments](../03-governance/071-judicial-appointments.md)
+- [WC-071 · Judicial Appointments](../03-governance/071-judicial-appointments.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 - [WC-107 · The Citizens' Oversight Assembly](107-citizens-oversight.md)
 
 ## Notes for adopting states
@@ -69,4 +69,4 @@ Every serious regression story begins with the appointment capture of the integr
 - Expect resistance precisely where the old system was most profitable - that resistance is the diagnostic.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

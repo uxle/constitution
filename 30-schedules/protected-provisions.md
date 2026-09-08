@@ -20,7 +20,9 @@
    (e) the non-derogable rights under Article 1.1.5 (Non-Derogable Rights);
    (f) the amendment rules of Part 25 (Constitutional Process);
    (g) the amendment freeze of Article 26.5.5 (Amendment Freeze);
-   (h) this Schedule and the entrenchment rule of Article 30.5.1.
+   (h) this Schedule and the entrenchment rule of Article 30.5.1;
+   (i) the non-discrimination safeguards on government-eligibility testing under Articles 31.3.5 and 31.4.4, and the independence of the Governance Eligibility Board under Article 31.1.4;
+   (j) the existence, mandate, and independence of the Integrity Branch under 37-integrity-branch/083-integrity-branch.md, Article 3.
 2. The protection of clause 1 extends to repeal and to any alteration diminishing a protected provision's substance.
 
 ## Article 30.5.3 — Scope of the Protection

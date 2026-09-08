@@ -1,7 +1,7 @@
 # WC-119 · Abolition of the Death Penalty
 
-> **Part 05 — Justice and Penal Law** · Document **119 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 38 — Penal Code Extended** · Source: World Constitution v1.0 corpus, document 119/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** The absolute, unamendable end of state killing
 
@@ -58,10 +58,9 @@ Abolition is total, unamendable, and extended to functional equivalents because 
 
 ## Cross-references
 
-- [WC-017 · Right to Life and Personal Security](../02-rights-and-liberties/017-right-to-life.md)
+- [WC-017 · Right to Life and Personal Security](../02-rights-and-liberties/017-right-to-life.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 - [WC-120 · Prohibition of Torture and Ill-Treatment](120-prohibition-of-torture.md)
-- [WC-136 · International Crimes](136-international-crimes.md)
-
+- [WC-136 · International Crimes](136-international-crimes.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - Penal reform requires the sentencing council and the training of document 294 before new codes bite.
@@ -69,4 +68,4 @@ Abolition is total, unamendable, and extended to functional equivalents because 
 - Decriminalisation lists take effect on day one; exoneration of prior convictions follows document 134's automatic procedure.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

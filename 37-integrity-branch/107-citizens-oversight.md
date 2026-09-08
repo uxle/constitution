@@ -1,7 +1,7 @@
 # WC-107 · The Citizens' Oversight Assembly
 
-> **Part 04 — Integrity Branch - Zero Corruption** · Document **107 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 37 — Integrity Branch** · Source: World Constitution v1.0 corpus, document 107/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** The people's own integrity watchdog, selected by lot
 
@@ -58,10 +58,9 @@ Who audits the auditor is the honest question about any integrity monopoly, and 
 
 ## Cross-references
 
-- [WC-058 · Citizens' Assemblies](../03-governance/058-citizens-assemblies.md)
+- [WC-058 · Citizens' Assemblies](../03-governance/058-citizens-assemblies.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 - [WC-083 · The Integrity Branch](083-integrity-branch.md)
-- [WC-078 · The Auditor-General](../03-governance/078-auditor-general.md)
-
+- [WC-078 · The Auditor-General](../03-governance/078-auditor-general.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - This Part is the zero-corruption architecture; it may be adopted alone as an organic statute where full constitutional reform is not yet possible.
@@ -69,4 +68,4 @@ Who audits the auditor is the honest question about any integrity monopoly, and 
 - Expect resistance precisely where the old system was most profitable - that resistance is the diagnostic.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

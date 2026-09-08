@@ -1,7 +1,7 @@
 # WC-117 · Prisoners' Rights and Prison Regime
 
-> **Part 05 — Justice and Penal Law** · Document **117 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 38 — Penal Code Extended** · Source: World Constitution v1.0 corpus, document 117/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** Prisons as rehabilitation institutions with enforceable rights
 
@@ -60,8 +60,7 @@ Prisons are the state's most total power over persons, and their corruption is p
 
 - [WC-120 · Prohibition of Torture and Ill-Treatment](120-prohibition-of-torture.md)
 - [WC-118 · Parole, Release and Reentry](118-parole-and-reentry.md)
-- [WC-057 · Anti-Entrenchment and Political Competition](../03-governance/057-oversight-tools.md)
-
+- [WC-057 · Anti-Entrenchment and Political Competition](../03-governance/057-oversight-tools.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - Penal reform requires the sentencing council and the training of document 294 before new codes bite.
@@ -69,4 +68,4 @@ Prisons are the state's most total power over persons, and their corruption is p
 - Decriminalisation lists take effect on day one; exoneration of prior convictions follows document 134's automatic procedure.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

@@ -1,7 +1,7 @@
 # WC-189 · Money and Currency
 
-> **Part 08 — Economic Order** · Document **189 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 41 — Economic Order Extended** · Source: World Constitution v1.0 corpus, document 189/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** Legal tender, cash rights and the payments commons
 
@@ -58,10 +58,9 @@ Cash is the anonymous payment technology of the poor and the free, and its quiet
 
 ## Cross-references
 
-- [WC-077 · The Central Bank](../03-governance/077-central-bank.md)
-- [WC-158 · Financial Services and Banking](../06-civil-and-commercial-law/158-financial-services.md)
-- [WC-263 · Crypto-Assets and Digital Money](../11-technology-and-future/263-digital-assets.md)
-
+- [WC-077 · The Central Bank](../03-governance/077-central-bank.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-158 · Financial Services and Banking](../06-civil-and-commercial-law/158-financial-services.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-263 · Crypto-Assets and Digital Money](../11-technology-and-future/263-digital-assets.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - Fiscal rules require the independent fiscal council to be credible; appoint it before the first budget under the new regime.
@@ -69,4 +68,4 @@ Cash is the anonymous payment technology of the poor and the free, and its quiet
 - The debt brake and the sovereign fund are intergenerational instruments; adopt them early, govern them forever.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

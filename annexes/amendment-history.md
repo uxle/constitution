@@ -2,6 +2,8 @@
 
 *About this annex: this annex records how the Constitution itself has changed and provides the template for recording every future change. It is part of the living governance of the text: an amendment that is not recorded here is not part of the authorized corpus.*
 
+**Coverage note (added in the v1.0.1 editorial audit):** This annex covers Parts 00–30 only. Parts 31–42 — Government Eligibility, Animal and Plant Rights, Hills/Mountains and Geography, Low Violence and Public Safety, Clean Cities and Sanitation, Media Integrity, the Integrity Branch, Penal Code Extended, Security and International Extended, Technology and Future Extended, Economic Order Extended, and Society and Culture Extended (116 files, roughly a third of the Constitution) — were merged into this edition without corresponding updates here, contrary to `CONTRIBUTING.md`'s synchronization requirement. This gap is flagged, not yet fixed.
+
 ## The adoption record
 
 Version 1.0.0 is the initial publication of the Constitution. It was adopted on **2026-08-31** and published as a complete corpus of **248 files**: 229 section files across the 31 numbered Parts, 7 root documents, 6 annexes, and 6 research notes. Within the Constitution's own narrative, the text is adopted by the people in a national referendum, having been deliberated upon and enacted by a freely elected constituent assembly, and it enters into force upon the proclamation of its ratification (Section 0.1). The transition from any prior legal order to this Constitution is governed by Section 30.4 (Transition Rules), which preserves existing law only insofar as it is consistent with the new text.
