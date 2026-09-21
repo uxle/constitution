@@ -1,7 +1,7 @@
 # WC-202 · Labour Market and Full Employment
 
-> **Part 08 — Economic Order** · Document **202 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 41 — Economic Order Extended** · Source: World Constitution v1.0 corpus, document 202/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** The employment mandate: activation, flexicurity and shared prosperity
 
@@ -58,8 +58,8 @@ Flexicurity is the package that reconciles dynamic economies with security, and 
 
 ## Cross-references
 
-- [WC-030 · Right to Work and Fair Labour](../02-rights-and-liberties/030-right-to-work.md)
-- [WC-154 · Collective Labor and Unions](../06-civil-and-commercial-law/154-collective-labor.md)
+- [WC-030 · Right to Work and Fair Labour](../02-rights-and-liberties/030-right-to-work.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-154 · Collective Labor and Unions](../06-civil-and-commercial-law/154-collective-labor.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 - [WC-208 · Just Transition and Industrial Policy](208-just-transition.md)
 
 ## Notes for adopting states
@@ -69,4 +69,4 @@ Flexicurity is the package that reconciles dynamic economies with security, and 
 - The debt brake and the sovereign fund are intergenerational instruments; adopt them early, govern them forever.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

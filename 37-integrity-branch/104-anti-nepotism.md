@@ -1,7 +1,7 @@
 # WC-104 · Anti-Nepotism and Cronyism
 
-> **Part 04 — Integrity Branch - Zero Corruption** · Document **104 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 37 — Integrity Branch** · Source: World Constitution v1.0 corpus, document 104/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** Merit in public jobs and contracts, family and friendship aside
 
@@ -58,7 +58,7 @@ Nepotism is the entry-level corruption through which citizens experience the sta
 
 ## Cross-references
 
-- [WC-065 · The Civil Service](../03-governance/065-civil-service.md)
+- [WC-065 · The Civil Service](../03-governance/065-civil-service.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 - [WC-100 · Conflict of Interest](100-conflict-of-interest.md)
 - [WC-108 · Corruption Offenses: Definitions and Grading](108-corruption-offenses.md)
 
@@ -69,4 +69,4 @@ Nepotism is the entry-level corruption through which citizens experience the sta
 - Expect resistance precisely where the old system was most profitable - that resistance is the diagnostic.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

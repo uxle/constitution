@@ -1,7 +1,7 @@
 # WC-098 · Lobbying Transparency
 
-> **Part 04 — Integrity Branch - Zero Corruption** · Document **098 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 37 — Integrity Branch** · Source: World Constitution v1.0 corpus, document 098/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** Influence in the light: registers, footprints and cooling-off
 
@@ -60,8 +60,7 @@ Lobbying is legitimate and inevitable; invisible lobbying is where corruption in
 
 - [WC-097 · Campaign Finance](097-campaign-finance.md)
 - [WC-101 · Gifts, Hospitality and the Revolving Door](101-gifts-and-revolving-door.md)
-- [WC-054 · The Legislative Process](../03-governance/054-legislative-process.md)
-
+- [WC-054 · The Legislative Process](../03-governance/054-legislative-process.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - This Part is the zero-corruption architecture; it may be adopted alone as an organic statute where full constitutional reform is not yet possible.
@@ -69,4 +68,4 @@ Lobbying is legitimate and inevitable; invisible lobbying is where corruption in
 - Expect resistance precisely where the old system was most profitable - that resistance is the diagnostic.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

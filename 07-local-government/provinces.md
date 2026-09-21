@@ -15,6 +15,7 @@
 1. Each Province shall have a Provincial Council elected by the voters of the Province for a term of five years.
 2. The Council shall exercise the devolved competences of the Province, adopt its budget, and supervise its administration.
 3. The Council shall elect a presiding officer from among its members and shall establish its own rules of procedure.
+4. The presiding officer represents the Province, signs its acts, and directs its administration between Council sittings, subject to the Council's supervision and recall by majority vote at any time; in this executive capacity the presiding officer is the Province's Governor for the purposes of Part 31 (Government Eligibility) and must hold current certification under Articles 31.2–31.4 before taking office.
 
 ## Article 7.1.3 — Devolved Competences
 

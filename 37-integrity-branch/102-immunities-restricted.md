@@ -1,7 +1,7 @@
 # WC-102 · Immunity Restricted for Corruption
 
-> **Part 04 — Integrity Branch - Zero Corruption** · Document **102 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 37 — Integrity Branch** · Source: World Constitution v1.0 corpus, document 102/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** No shield of office against integrity investigation
 
@@ -58,10 +58,9 @@ Functional immunity protects democracy; criminal immunity protects criminals, an
 
 ## Cross-references
 
-- [WC-082 · Immunities and Their Limits](../03-governance/082-legislative-immunities.md)
+- [WC-082 · Immunities and Their Limits](../03-governance/082-legislative-immunities.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 - [WC-088 · Prosecution of Corruption](088-corruption-prosecution.md)
-- [WC-136 · International Crimes](../05-justice-and-penal-law/136-international-crimes.md)
-
+- [WC-136 · International Crimes](../05-justice-and-penal-law/136-international-crimes.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - This Part is the zero-corruption architecture; it may be adopted alone as an organic statute where full constitutional reform is not yet possible.
@@ -69,4 +68,4 @@ Functional immunity protects democracy; criminal immunity protects criminals, an
 - Expect resistance precisely where the old system was most profitable - that resistance is the diagnostic.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

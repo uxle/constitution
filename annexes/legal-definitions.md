@@ -2,6 +2,8 @@
 
 *About this annex: this annex collects the working vocabulary of the Constitution in one place so that educators and students can resolve every capitalized term without searching the corpus. It is a reading aid, not a source of law: the binding meaning of each term is fixed by the provision cited in the table, which would govern over any divergence here.*
 
+**Coverage note (added in the v1.0.1 editorial audit):** This annex covers Parts 00–30 only. Parts 31–42 — Government Eligibility, Animal and Plant Rights, Hills/Mountains and Geography, Low Violence and Public Safety, Clean Cities and Sanitation, Media Integrity, the Integrity Branch, Penal Code Extended, Security and International Extended, Technology and Future Extended, Economic Order Extended, and Society and Culture Extended (116 files, roughly a third of the Constitution) — were merged into this edition without corresponding updates here, contrary to `CONTRIBUTING.md`'s synchronization requirement. This gap is flagged, not yet fixed.
+
 The Constitution uses a deliberately small, load-bearing vocabulary. Institutions are capitalized exactly as defined — "the Lower House", never "the lower house" — while generic words carry their ordinary meaning unless a provision gives them a specific one. Each definition lives in the Section where its term does most of its work, and where one institution appears in two places — the Electoral Commission by function in Section 3.5 and by composition in Section 20.4 — the provisions cross-reference each other rather than duplicate definitions.
 
 | Term | Meaning as used in this Constitution | Primary location |

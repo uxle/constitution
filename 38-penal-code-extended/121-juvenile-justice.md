@@ -1,7 +1,7 @@
 # WC-121 · Juvenile Justice
 
-> **Part 05 — Justice and Penal Law** · Document **121 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 38 — Penal Code Extended** · Source: World Constitution v1.0 corpus, document 121/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** A separate, welfare-first system for children in conflict with the law
 
@@ -58,8 +58,8 @@ The corpus fixes responsibility at fourteen following the median of advanced sys
 
 ## Cross-references
 
-- [WC-038 · Rights of the Child](../02-rights-and-liberties/038-childrens-rights.md)
-- [WC-138 · Criminal Records and Rehabilitation of Records](138-criminal-records.md)
+- [WC-038 · Rights of the Child](../02-rights-and-liberties/038-childrens-rights.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-138 · Criminal Records and Rehabilitation of Records](138-criminal-records.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 - [WC-116 · Restorative Justice](116-restorative-justice.md)
 
 ## Notes for adopting states
@@ -69,4 +69,4 @@ The corpus fixes responsibility at fourteen following the median of advanced sys
 - Decriminalisation lists take effect on day one; exoneration of prior convictions follows document 134's automatic procedure.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

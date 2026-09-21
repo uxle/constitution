@@ -1,7 +1,7 @@
 # WC-120 · Prohibition of Torture and Ill-Treatment
 
-> **Part 05 — Justice and Penal Law** · Document **120 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 38 — Penal Code Extended** · Source: World Constitution v1.0 corpus, document 120/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** The absolute ban with exclusion, investigation and command liability
 
@@ -59,9 +59,8 @@ The absolute ban is completed by the machinery that makes it real, because tortu
 ## Cross-references
 
 - [WC-117 · Prisoners' Rights and Prison Regime](117-prisoners-rights.md)
-- [WC-136 · International Crimes](136-international-crimes.md)
-- [WC-087 · Investigative Powers and Safeguards](../04-integrity-branch/087-investigative-powers.md)
-
+- [WC-136 · International Crimes](136-international-crimes.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-087 · Investigative Powers and Safeguards](../04-integrity-branch/087-investigative-powers.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - Penal reform requires the sentencing council and the training of document 294 before new codes bite.
@@ -69,4 +68,4 @@ The absolute ban is completed by the machinery that makes it real, because tortu
 - Decriminalisation lists take effect on day one; exoneration of prior convictions follows document 134's automatic procedure.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

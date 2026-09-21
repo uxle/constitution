@@ -1,7 +1,7 @@
 # WC-243 · Civil Protection and Disaster Management
 
-> **Part 10 — Security and International Order** · Document **243 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 39 — Security and International Extended** · Source: World Constitution v1.0 corpus, document 243/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** Preparedness, response and honest recovery
 
@@ -58,10 +58,9 @@ Disaster corruption is a documented genre - relief diverted, reconstruction bid-
 
 ## Cross-references
 
-- [WC-080 · Emergency Powers](../03-governance/080-emergency-powers.md)
-- [WC-226 · Climate Law](../09-society-and-environment/226-climate-law.md)
-- [WC-215 · Public Health](../09-society-and-environment/215-public-health.md)
-
+- [WC-080 · Emergency Powers](../03-governance/080-emergency-powers.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-226 · Climate Law](../09-society-and-environment/226-climate-law.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-215 · Public Health](../09-society-and-environment/215-public-health.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - Security-sector reform starts with parliamentary oversight and budget transparency before any new capabilities.
@@ -69,4 +68,4 @@ Disaster corruption is a documented genre - relief diverted, reconstruction bid-
 - War powers and intelligence warrants require the surveillance court; build it first.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

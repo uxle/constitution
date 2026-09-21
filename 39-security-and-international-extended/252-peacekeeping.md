@@ -1,7 +1,7 @@
 # WC-252 · Peacekeeping and Peacebuilding
 
-> **Part 10 — Security and International Order** · Document **252 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 39 — Security and International Extended** · Source: World Constitution v1.0 corpus, document 252/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** Blue helmets and the long peace: consent, protection, accountability
 
@@ -59,9 +59,8 @@ Peace operations carry the UN's finest purposes and its worst scandals, and both
 ## Cross-references
 
 - [WC-237 · War Powers and Use of Force](237-war-powers.md)
-- [WC-136 · International Crimes](../05-justice-and-penal-law/136-international-crimes.md)
-- [WC-248 · Foreign Policy](248-foreign-policy.md)
-
+- [WC-136 · International Crimes](../05-justice-and-penal-law/136-international-crimes.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-248 · Foreign Policy](248-foreign-policy.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - Security-sector reform starts with parliamentary oversight and budget transparency before any new capabilities.
@@ -69,4 +68,4 @@ Peace operations carry the UN's finest purposes and its worst scandals, and both
 - War powers and intelligence warrants require the surveillance court; build it first.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

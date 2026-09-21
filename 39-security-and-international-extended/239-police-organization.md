@@ -1,7 +1,7 @@
 # WC-239 · The Police
 
-> **Part 10 — Security and International Order** · Document **239 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 39 — Security and International Extended** · Source: World Constitution v1.0 corpus, document 239/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** Organisation, independence and community accountability
 
@@ -60,8 +60,7 @@ Policing succeeds by consent, and consent is built by independence in cases, vis
 
 - [WC-240 · Policing Standards and Use of Force](240-policing-standards.md)
 - [WC-239 · The Police](239-police-organization.md)
-- [WC-107 · The Citizens' Oversight Assembly](../04-integrity-branch/107-citizens-oversight.md)
-
+- [WC-107 · The Citizens' Oversight Assembly](../04-integrity-branch/107-citizens-oversight.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - Security-sector reform starts with parliamentary oversight and budget transparency before any new capabilities.
@@ -69,4 +68,4 @@ Policing succeeds by consent, and consent is built by independence in cases, vis
 - War powers and intelligence warrants require the surveillance court; build it first.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

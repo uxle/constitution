@@ -2,6 +2,49 @@
 
 All notable changes to the World Constitution repository are documented here. The format follows the project's governance rules: Major.Minor.Patch, with substantive changes cross-referenced to `annexes/amendment-history.md`.
 
+## [1.0.2] — Anti-capture amendment pass
+
+*See `ANTI-CAPTURE-AMENDMENTS.md` for the full index, real-world rationale, and an explicit list of residual risks not addressed by this pass. No existing file was deleted or renumbered; all changes below are additive.*
+
+### Added (substantive — flagged for the entrenched-provision review track under `CONTRIBUTING.md`, per the same process applied to the [1.0.1] entrenchment addition below)
+
+- **Article 5.5.6 (`05-judiciary/judicial-appointments.md`).** Replaces cross-party political agreement with sortition, and moves Commission composition and eligibility criteria out of reach of ordinary law, closing the two routes flagged against Article 5.5.1 and Article 5.5.4(3).
+- **Articles 31.7.7–31.7.9 (`31-government-eligibility/31.7-disqualification-and-removal.md`).** Interim suspension on the framing (not filing) of charges, with a misuse safeguard and a fast-track trial requirement, addressing the multi-year gap between Article 31.7.1's conviction-based disqualification and an actual conviction.
+- **Articles 3.10.6–3.10.7 (`03-legislature/anti-corruption.md`).** Voids case closures triggered by a member's change of party affiliation and requires a public, quarterly case-status register.
+- **Articles 15.4.6–15.4.7 (`15-criminal-procedure/evidence.md`).** Independent forensic collection and personal criminal liability for tampering, addressing evidence compromise upstream of the chain-of-custody log already required by Article 15.4.4.
+- **Articles 34.4.5–34.4.6 (`34-low-violence-and-public-safety/34.4-community-policing-standards.md`).** Fixed tenure for police commanders and mandatory review of transfers timed around contested public-order events.
+- **Section 21.6 / Articles 21.6.1–21.6.3 (`21-media-and-information/citizen-documentation-rights.md`, new file).** Extends documentation protection beyond registered journalists (Article 21.5) to any lawfully-present person documenting a publicly funded institution, with a specificity bar on reputational-harm-only complaints.
+- **Article 26.5.7 (`26-emergency-and-crisis/emergency-safeguards.md`).** Declares all amendments in this pass non-derogable under Article 26.5.1.
+- **Article 5 / Articles 5.1–5.2 (`37-integrity-branch/085-commission-appointment-and-tenure.md`).** Breaks the circularity where the Commission's appointing panel is drawn solely from the judiciary the Commission exists to check; requires a non-retaliation finding before a two-thirds parliamentary removal vote proceeds.
+- **Section 8.9 / Articles 8.9.1–8.9.6 (`08-public-finance/public-official-compensation.md`, new file).** Fixes elected-officeholder compensation as a Statistics-Authority-certified multiple of national per-day income rather than a self-set figure, bars self-adjustment, and closes the self-certified-utilization gap in discretionary constituency funds.
+
+### Fixed (editorial — cross-reference error)
+
+- **`37-integrity-branch/085-commission-appointment-and-tenure.md`.** The WC-071 cross-reference pointed to `../03-governance/071-judicial-appointments.md`, a path that does not exist in this edition's folder structure (there is no `03-governance/`; Part 03 is the Legislature). Corrected to `../05-judiciary/judicial-appointments.md`, the file that actually covers judicial appointments.
+
+### Not addressed in this pass (see `ANTI-CAPTURE-AMENDMENTS.md` for the full list)
+
+- Campaign-finance transparency for political parties (`03-legislature/campaign-finance.md` was not amended).
+- Compensation transparency for non-elected senior civil servants and board appointees.
+- Extension of Article 21.6 to privately operated, publicly funded contractors (e.g., PPP infrastructure).
+
+## [1.0.1] — Corrections from editorial audit
+
+### Fixed (editorial — cross-reference and citation errors)
+
+- **Article 3.2.3 (Lower House Eligibility).** Added the missing cross-reference to Part 31 (Government Eligibility): the unqualified "every citizen entitled to vote is eligible for election" text directly contradicted Part 31's education/psychological/physical fitness gates, which require certification *before* a candidate's name may appear on a ballot. The two provisions are now reconciled.
+- **Articles 31.3, 31.4, 31.6 (Government Eligibility).** Corrected three broken or mislabeled cross-references to Part 00: "0.4 (Separation of Powers)" is actually Section 0.4 (Rule of Law) — separation of powers is Section 0.5; "0.3 (Founding: The Crown)" is actually Section 0.3 (Sovereignty); the 31.3 Design Note's "entrenchment rule in 0.5" pointed at Separation of Powers instead of the intended Section 30.5 (Protected Provisions).
+- **Articles 31.3, 31.4.** Corrected "41-disability rights" citations, which pointed at Part 41 (Economic Order Extended — no disability content), to the correct location at `28-special-populations/persons-with-disabilities.md`.
+- **Articles 36.1, 36.3, 42.12.** Corrected three citations of "1.2 (Freedom of Expression / Association)" — Section 1.2 is Equality — to the correct Section 1.3 (Freedom of Speech, Assembly, and Association).
+
+### Added (substantive — flagged for the entrenched-provision review track under `CONTRIBUTING.md`)
+
+- **Article 30.5.2(i).** Added the non-discrimination safeguards on government-eligibility testing (Articles 31.3.5, 31.4.4) and the independence of the Governance Eligibility Board (Article 31.1.4) to the entrenched-provisions list. Part 31's own Design Notes already asserted these safeguards were constitutionally entrenched against weakening amendments; they were not actually listed in Article 30.5.2, so the single most abuse-prone power in the text — a fitness test capable of disqualifying political rivals — carried no more protection than an ordinary statute. **This addition changes protected constitutional content and, per `CONTRIBUTING.md`, requires the 30-day comment period and three-maintainer approval before it may stand as adopted text; it is included here as a drafted proposal, not a ratified amendment.**
+
+### Not yet fixed (flagged, not corrected, in this pass)
+
+- **Word-count non-compliance.** `CONTRIBUTING.md` requires 350–500 words per section. All 14 sections in Part 42 run 89–160 words (under-length); most of Part 37's 26 sections run 500–711 words (over-length). Left unedited pending a decision on whether to expand Part 42 or split/trim Part 37, since both require drafting new substantive text rather than a mechanical fix.
+
 ## [1.0.0] — 2026-08-31 — Initial release
 
 ### Added

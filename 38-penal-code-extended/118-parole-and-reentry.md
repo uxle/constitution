@@ -1,7 +1,7 @@
 # WC-118 · Parole, Release and Reentry
 
-> **Part 05 — Justice and Penal Law** · Document **118 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 38 — Penal Code Extended** · Source: World Constitution v1.0 corpus, document 118/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** Release as a supervised right with support, not a lottery
 
@@ -58,10 +58,9 @@ Recidivism is manufactured at the gate: no documents, no housing, no work and no
 
 ## Cross-references
 
-- [WC-138 · Criminal Records and Rehabilitation of Records](138-criminal-records.md)
+- [WC-138 · Criminal Records and Rehabilitation of Records](138-criminal-records.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 - [WC-117 · Prisoners' Rights and Prison Regime](117-prisoners-rights.md)
-- [WC-132 · Drug Policy](132-drug-policy.md)
-
+- [WC-132 · Drug Policy](132-drug-policy.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - Penal reform requires the sentencing council and the training of document 294 before new codes bite.
@@ -69,4 +68,4 @@ Recidivism is manufactured at the gate: no documents, no housing, no work and no
 - Decriminalisation lists take effect on day one; exoneration of prior convictions follows document 134's automatic procedure.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

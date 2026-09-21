@@ -1,7 +1,7 @@
 # WC-086 · The Preventive Mandate
 
-> **Part 04 — Integrity Branch - Zero Corruption** · Document **086 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 37 — Integrity Branch** · Source: World Constitution v1.0 corpus, document 086/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** Corruption-proofing systems before money moves
 
@@ -59,7 +59,7 @@ Prevention is where the zero in zero-corruption is actually earned: prosecution 
 ## Cross-references
 
 - [WC-084 · The Integrity Commission](084-integrity-commission.md)
-- [WC-066 · Public Service Codes and Duties](../03-governance/066-public-service-codes.md)
+- [WC-066 · Public Service Codes and Duties](../03-governance/066-public-service-codes.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 - [WC-099 · Public Procurement](099-procurement.md)
 
 ## Notes for adopting states
@@ -69,4 +69,4 @@ Prevention is where the zero in zero-corruption is actually earned: prosecution 
 - Expect resistance precisely where the old system was most profitable - that resistance is the diagnostic.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

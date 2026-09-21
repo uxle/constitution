@@ -2,6 +2,8 @@
 
 *About this annex: this annex indexes the institutions of the Republic, the Section that establishes each, the powers that define it, and the guarantees that keep it independent. It is a finding aid for readers, not a source of law: the binding text is the cited provision itself.*
 
+**Coverage note (added in the v1.0.1 editorial audit):** This annex covers Parts 00–30 only. Parts 31–42 — Government Eligibility, Animal and Plant Rights, Hills/Mountains and Geography, Low Violence and Public Safety, Clean Cities and Sanitation, Media Integrity, the Integrity Branch, Penal Code Extended, Security and International Extended, Technology and Future Extended, Economic Order Extended, and Society and Culture Extended (116 files, roughly a third of the Constitution) — were merged into this edition without corresponding updates here, contrary to `CONTRIBUTING.md`'s synchronization requirement. This gap is flagged, not yet fixed.
+
 The Constitution assigns institutional independence a constitutional rank. The classic organs — Parliament, the executive, the courts — are separated and checked under Part 00, while Part 20 establishes a family of independent institutions that stand outside the daily chain of political instruction. Several further bodies — the Central Bank, the Boundary Commission, the independent fiscal council, and the competition authority — are not part of Part 20 but receive their own independence guarantees in the Parts that govern their fields. Every institution listed here is accountable in the end to Parliament or to the courts; independence means freedom from political direction, never freedom from law.
 
 | Institution | Establishing section | Key powers | Independence guarantees |

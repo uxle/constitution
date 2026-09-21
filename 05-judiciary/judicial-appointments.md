@@ -39,3 +39,15 @@
 *Making the recommendations binding strips the President of patronage while leaving the formal appointment in the hands of the head of state — stricter in effect than the advisory commissions of the United Kingdom and closer to the professional councils of continental Europe. Public, criteria-based hearings are the cheapest known prophylactic against quiet favouritism. Judicial majorities on the Commission protect independence, while the non-judge members prevent corporate self-selection.*
 
 **Cross-references:** Article 5.1.5 (Removal for Cause); Article 5.2.2 (Composition); Article 5.3.2 (Terms of Judges).
+
+## Article 5.5.6 — Anti-Capture Amendment: Selection of Public Members
+
+1. Notwithstanding Article 5.5.1(1), the public members of the Commission shall be selected by random sortition from a certified pool of retired civil servants, senior advocates, and law academics who have held no political office or party membership in the preceding fifteen years, rather than by cross-party political agreement.
+2. Notwithstanding Article 5.5.1(2) and Article 5.5.4(3), the composition, quorum, and eligibility criteria of the Commission, and the eligibility requirements referred to in Article 5.5.4(3), are fixed in this Constitution and may not be altered by ordinary law.
+3. Amendment of this Article requires the same two-thirds and multi-legislature ratification threshold that Part 25 (Constitutional Process) prescribes for entrenched provisions.
+
+## Design Note (Amendment)
+
+*Cross-party political agreement selects for consensus among political elites, not independence from them — a cartel of otherwise-rival parties can agree on a compliant judiciary as easily as on anything else. Sortition from a vetted, politically-inactive pool removes that particular capture route. Moving composition and eligibility criteria out of ordinary law closes the route by which a single legislative majority quietly rewrites the gatekeeping rules without amending the Constitution itself.*
+
+**Cross-references:** Article 5.5.1 (Composition); Article 5.5.4 (Binding Recommendations); Part 25 (Constitutional Process).

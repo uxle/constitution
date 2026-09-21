@@ -1,7 +1,7 @@
 # WC-260 · Digital Infrastructure as Public Utility
 
-> **Part 11 — Technology and the Future** · Document **260 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 40 — Technology and Future Extended** · Source: World Constitution v1.0 corpus, document 260/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** Connectivity, compute and platforms as essential infrastructure
 
@@ -58,10 +58,9 @@ Connectivity became the condition of citizenship - taxes, school, health - so th
 
 ## Cross-references
 
-- [WC-028 · Digital Rights and Internet Access](../02-rights-and-liberties/028-digital-rights.md)
-- [WC-188 · Monopolies and Essential Facilities](../08-economic-order/188-monopolies.md)
-- [WC-204 · Infrastructure and Public Investment](../08-economic-order/204-infrastructure.md)
-
+- [WC-028 · Digital Rights and Internet Access](../02-rights-and-liberties/028-digital-rights.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-188 · Monopolies and Essential Facilities](../08-economic-order/188-monopolies.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-204 · Infrastructure and Public Investment](../08-economic-order/204-infrastructure.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - The technology chapters presume the data-protection framework; sequence document 026's statute before AI and platform rules.
@@ -69,4 +68,4 @@ Connectivity became the condition of citizenship - taxes, school, health - so th
 - Digital-identity rollout must include the offline fallbacks from day one or the excluded will litigate rightly.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

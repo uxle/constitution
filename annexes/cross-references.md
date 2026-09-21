@@ -2,6 +2,8 @@
 
 *About this annex: this annex explains the numbering system used throughout the Constitution and traces the main thematic threads that run across its Parts. It is a navigation aid for readers and a style guide for future contributors who cite the text.*
 
+**Coverage note (added in the v1.0.1 editorial audit):** This annex covers Parts 00–30 only. Parts 31–42 — Government Eligibility, Animal and Plant Rights, Hills/Mountains and Geography, Low Violence and Public Safety, Clean Cities and Sanitation, Media Integrity, the Integrity Branch, Penal Code Extended, Security and International Extended, Technology and Future Extended, Economic Order Extended, and Society and Culture Extended (116 files, roughly a third of the Constitution) — were merged into this edition without corresponding updates here, contrary to `CONTRIBUTING.md`'s synchronization requirement. This gap is flagged, not yet fixed.
+
 ## The numbering system
 
 The Constitution is organized in three layers. The corpus is divided into **31 numbered Parts**; each Part lives in a directory whose name encodes its number, such as `01-rights` for Part 01 (Rights and Freedoms). Each Part contains **Sections** numbered by position: the third file of Part 05 is Section 5.3. Each Section contains **Articles** numbered by Section: the second article of Section 5.3 is Article 5.3.2. Articles carry short titles, and clauses beneath them are numbered 1., 2., 3., with sub-clauses lettered (a), (b), (c) and further numbered (i), (ii), (iii).

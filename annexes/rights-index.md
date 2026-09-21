@@ -2,6 +2,8 @@
 
 *About this annex: this annex maps every right of Part 01 (Rights and Freedoms) to its primary articles, its limitation rule, and its derogation status. It is a navigation tool for readers, not a source of law: the binding text is the cited article itself.*
 
+**Coverage note (added in the v1.0.1 editorial audit):** This annex covers Parts 00–30 only. Parts 31–42 — Government Eligibility, Animal and Plant Rights, Hills/Mountains and Geography, Low Violence and Public Safety, Clean Cities and Sanitation, Media Integrity, the Integrity Branch, Penal Code Extended, Security and International Extended, Technology and Future Extended, Economic Order Extended, and Society and Culture Extended (116 files, roughly a third of the Constitution) — were merged into this edition without corresponding updates here, contrary to `CONTRIBUTING.md`'s synchronization requirement. This gap is flagged, not yet fixed.
+
 Part 01 is built around two structural rules. First, **Article 1.1.4 (Limitation of Rights)** is the single master limitation clause: every right in the Part may be limited only by a law of general application, and only if the limitation passes a five-element test — legality, legitimate aim, suitability, necessity, and proportionality stricto sensu — with the burden of justification on the State. No right carries its own private limitation formula. Second, **Article 1.1.5 (Non-Derogable Rights)** lists the rights that may never be suspended, even during a declared emergency; a provision purporting to suspend them is void from its adoption.
 
 | Right | Primary article | Limitation | Derogation status |

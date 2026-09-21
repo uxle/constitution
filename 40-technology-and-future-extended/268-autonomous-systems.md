@@ -1,7 +1,7 @@
 # WC-268 · Autonomous Systems
 
-> **Part 11 — Technology and the Future** · Document **268 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 40 — Technology and Future Extended** · Source: World Constitution v1.0 corpus, document 268/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** Robots, drones and vehicles: responsibility without gaps
 
@@ -58,10 +58,9 @@ Autonomous systems arrive with a responsibility vacuum - the vendor blames the u
 
 ## Cross-references
 
-- [WC-256 · AI Governance](256-ai-governance.md)
-- [WC-026 · Privacy](../02-rights-and-liberties/026-privacy.md)
-- [WC-202 · Labour Market and Full Employment](../08-economic-order/202-labor-market.md)
-
+- [WC-256 · AI Governance](256-ai-governance.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-026 · Privacy](../02-rights-and-liberties/026-privacy.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-202 · Labour Market and Full Employment](../08-economic-order/202-labor-market.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - The technology chapters presume the data-protection framework; sequence document 026's statute before AI and platform rules.
@@ -69,4 +68,4 @@ Autonomous systems arrive with a responsibility vacuum - the vendor blames the u
 - Digital-identity rollout must include the offline fallbacks from day one or the excluded will litigate rightly.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

@@ -64,6 +64,8 @@ Plain-language definitions of the constitutional vocabulary used throughout this
 
 **Freedom of information** — the right to request and receive information held by public bodies, subject to narrow, exhaustive exemptions. See Sections 21.3 and 27.2.
 
+**Governor (Regional)** — the presiding officer of a Provincial Council elected under Article 7.1.2.3, when exercising the executive functions the Council delegates to that office; the term used in Part 31 (Government Eligibility) for the person subject to its eligibility gates at the provincial tier. ⚠ Editorial note: this term was used normatively in Part 31 (Articles 31.1.1, 31.7) before this entry existed and before Part 07 assigned it any executive content beyond chairing meetings — see Article 7.1.2.3, corrected alongside this entry.
+
 **Habeas corpus** — the remedy compelling a authority to justify a detention before a judge without delay. See Section 15.1.
 
 **Head of government** — the Prime Minister, who directs the government and holds the confidence of the Lower House. See Section 4.2.

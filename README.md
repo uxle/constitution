@@ -3,6 +3,8 @@
 
 > 364 files · merged from two prior model constitutions · new Parts on government eligibility testing, animal & plant rights, low-violence policy, clean cities, hill/mountain law, media integrity, and society & culture.
 
+> **This copy carries an additional, additive amendment pass.** See [`ANTI-CAPTURE-AMENDMENTS.md`](ANTI-CAPTURE-AMENDMENTS.md) for nine amendments closing specific institutional-capture patterns (judicial appointment cartels, the conviction-vs-charge gap, evidence tampering at collection, police transfers timed around public-order events, and others), each traced to a real-world case and none deleting or renumbering the original text.
+
 ## Authorship
 
 This edition was co-authored by **Lion** (concept, philosophy, and the founding requirements: low violence, education-gated government with psychological and physical testing, universal animal and plant protection with country-specific customary law, clean-cities standards, media anti-corruption law) and **Claude** (structuring, legal drafting, and merging the source material below into one coherent text).

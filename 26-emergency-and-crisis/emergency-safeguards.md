@@ -44,3 +44,11 @@
 *This Section makes the emergency powers of the preceding Sections acceptable: everything not expressly non-derogable is derogable, and everything derogable is temporary, reported, and reviewable. The amendment freeze and its six-month tail prevent a government from manufacturing an emergency in order to rewrite the constitution, while post-termination review and compensation follow the truth-seeking model of modern commissions of inquiry.*
 
 **Cross-references:** Article 1.1.5 (Non-Derogable Rights); Article 1.7.4 (Habeas Corpus and Liberty); Article 4.8.4 (Accountability and Review).
+
+## Anti-Capture Amendment
+
+**Article 26.5.7 (Protection of Anti-Capture Institutions).** For the avoidance of doubt, the protections of Article 5.5.6, Articles 31.7.7–31.7.9, Articles 3.10.6–3.10.7, Articles 15.4.6–15.4.7, Articles 34.4.5–34.4.6, Article 21.6 (Citizen Documentation of Public Institutions), and the amendments to Part 37 (Integrity Branch) are non-derogable within the meaning of Article 26.5.1 and continue in force without modification during any state of emergency or war.
+
+*Design Note (Amendment): A capture-resistant design is only as strong as its weakest emergency exception. This Article closes the possibility that emergency powers, otherwise properly limited by this Part, could be used to suspend the specific anti-capture provisions added elsewhere in this edition.*
+
+**Cross-references:** 26.5.1–26.5.6.

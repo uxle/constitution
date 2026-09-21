@@ -1,7 +1,7 @@
 # WC-116 · Restorative Justice
 
-> **Part 05 — Justice and Penal Law** · Document **116 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 38 — Penal Code Extended** · Source: World Constitution v1.0 corpus, document 116/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** Repair as justice: conferencing, agreements and safeguards
 
@@ -59,7 +59,7 @@ The evidence from New Zealand family-group conferencing, Rwanda's post-genocide 
 ## Cross-references
 
 - [WC-137 · Rights of Victims](137-victim-rights.md)
-- [WC-115 · Sentencing Guidelines and Procedure](115-sentencing-guidelines.md)
+- [WC-115 · Sentencing Guidelines and Procedure](115-sentencing-guidelines.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 - [WC-121 · Juvenile Justice](121-juvenile-justice.md)
 
 ## Notes for adopting states
@@ -69,4 +69,4 @@ The evidence from New Zealand family-group conferencing, Rwanda's post-genocide 
 - Decriminalisation lists take effect on day one; exoneration of prior convictions follows document 134's automatic procedure.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

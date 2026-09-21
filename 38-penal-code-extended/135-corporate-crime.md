@@ -1,7 +1,7 @@
 # WC-135 · Corporate and White-Collar Crime
 
-> **Part 05 — Justice and Penal Law** · Document **135 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 38 — Penal Code Extended** · Source: World Constitution v1.0 corpus, document 135/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** Legal persons on trial: liability, sanctions and compliance
 
@@ -58,10 +58,9 @@ Corporate crime is where corruption and ordinary crime meet the balance sheet, a
 
 ## Cross-references
 
-- [WC-127 · Fraud and Financial Crime](127-fraud-and-financial-crime.md)
-- [WC-108 · Corruption Offenses: Definitions and Grading](../04-integrity-branch/108-corruption-offenses.md)
-- [WC-150 · Corporate Governance and Directors' Duties](../06-civil-and-commercial-law/150-corporate-governance.md)
-
+- [WC-127 · Fraud and Financial Crime](127-fraud-and-financial-crime.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-108 · Corruption Offenses: Definitions and Grading](../04-integrity-branch/108-corruption-offenses.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-150 · Corporate Governance and Directors' Duties](../06-civil-and-commercial-law/150-corporate-governance.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - Penal reform requires the sentencing council and the training of document 294 before new codes bite.
@@ -69,4 +68,4 @@ Corporate crime is where corruption and ordinary crime meet the balance sheet, a
 - Decriminalisation lists take effect on day one; exoneration of prior convictions follows document 134's automatic procedure.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

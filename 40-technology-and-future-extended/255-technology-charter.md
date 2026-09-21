@@ -1,7 +1,7 @@
 # WC-255 · The Technology Charter
 
-> **Part 11 — Technology and the Future** · Document **255 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 40 — Technology and Future Extended** · Source: World Constitution v1.0 corpus, document 255/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** First principles for the digital age: human primacy, openness, security
 
@@ -58,10 +58,9 @@ The charter is the meta-rule of the Part: technology receives no exemption from 
 
 ## Cross-references
 
-- [WC-256 · AI Governance](256-ai-governance.md)
-- [WC-258 · The Public Data Framework](258-data-framework.md)
-- [WC-257 · Algorithmic Transparency and Automated Decisions](257-algorithmic-transparency.md)
-
+- [WC-256 · AI Governance](256-ai-governance.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-258 · The Public Data Framework](258-data-framework.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-257 · Algorithmic Transparency and Automated Decisions](257-algorithmic-transparency.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - The technology chapters presume the data-protection framework; sequence document 026's statute before AI and platform rules.
@@ -69,4 +68,4 @@ The charter is the meta-rule of the Part: technology receives no exemption from 
 - Digital-identity rollout must include the offline fallbacks from day one or the excluded will litigate rightly.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

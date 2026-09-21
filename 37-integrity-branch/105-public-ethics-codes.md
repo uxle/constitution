@@ -1,7 +1,7 @@
 # WC-105 · Public Ethics Codes
 
-> **Part 04 — Integrity Branch - Zero Corruption** · Document **105 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 37 — Integrity Branch** · Source: World Constitution v1.0 corpus, document 105/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** One code for all officeholders, statutory and sanctioned
 
@@ -58,7 +58,7 @@ Fragmented codes are how standards get gamed: one ministry strict, a state compa
 
 ## Cross-references
 
-- [WC-066 · Public Service Codes and Duties](../03-governance/066-public-service-codes.md)
+- [WC-066 · Public Service Codes and Duties](../03-governance/066-public-service-codes.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 - [WC-086 · The Preventive Mandate](086-preventive-mandate.md)
 - [WC-093 · Whistleblower Protection and Rewards](093-whistleblower-protection.md)
 
@@ -69,4 +69,4 @@ Fragmented codes are how standards get gamed: one ministry strict, a state compa
 - Expect resistance precisely where the old system was most profitable - that resistance is the diagnostic.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

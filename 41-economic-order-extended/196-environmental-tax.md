@@ -1,7 +1,7 @@
 # WC-196 · Environmental and Consumption Taxes
 
-> **Part 08 — Economic Order** · Document **196 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 41 — Economic Order Extended** · Source: World Constitution v1.0 corpus, document 196/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** Pricing pollution, protecting essentials: VAT, carbon, sin taxes
 
@@ -58,10 +58,9 @@ Pricing pollution is the cheapest environmental policy ever tested, and per-capi
 
 ## Cross-references
 
-- [WC-226 · Climate Law](../09-society-and-environment/226-climate-law.md)
-- [WC-193 · Principles of Taxation](193-taxation-principles.md)
-- [WC-034 · Right to Food and Water](../02-rights-and-liberties/034-right-to-food-and-water.md)
-
+- [WC-226 · Climate Law](../09-society-and-environment/226-climate-law.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-193 · Principles of Taxation](193-taxation-principles.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-034 · Right to Food and Water](../02-rights-and-liberties/034-right-to-food-and-water.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - Fiscal rules require the independent fiscal council to be credible; appoint it before the first budget under the new regime.
@@ -69,4 +68,4 @@ Pricing pollution is the cheapest environmental policy ever tested, and per-capi
 - The debt brake and the sovereign fund are intergenerational instruments; adopt them early, govern them forever.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*

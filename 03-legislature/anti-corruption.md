@@ -39,3 +39,13 @@
 *Public asset disclosure converts abstract integrity into checkable fact, and recusal rules protect legislative decisions from private capture. The express statement that privilege never bars corruption prosecutions closes the most abused loophole in parliamentary immunity systems, a loophole likewise closed in the asset-declaration regimes of several Latin American constitutions. Expulsion is deliberately demanding — a two-thirds majority — so that it cannot be misused to purge political opponents for mere dissent.*
 
 **Cross-references:** Article 3.9.3 (Purpose and Limits); Article 3.7.5 (Oversight and Sanctions); Article 5.8.5 (Relationship to Police and the Anti-Corruption Commission).
+
+## Anti-Capture Amendment — Continuity of Investigation Across Party Affiliation
+
+**Article 3.10.6 (No Closure by Reason of Affiliation).** An investigation or prosecution referred under Article 3.10.5 shall not be closed, stayed, reclassified, or deprioritized by reason of the member's change of political party or parliamentary bloc. A closure in breach of this Article is void and is automatically referred for judicial review by the Constitutional Court.
+
+**Article 3.10.7 (Public Case-Status Register).** The Anti-Corruption Commission shall publish, quarterly, a register of every member and former member under active investigation or prosecution, showing the case's opening date, present status, and the member's party affiliation at each relevant date. Publication under this Article does not itself constitute a finding of guilt and is without prejudice to the presumption of innocence.
+
+*Design Note (Amendment): The most common route around the integrity provisions of this Section is not repeal but neglect — a file that is never formally closed but is never advanced either, timed to a change of political alignment. Article 3.10.6 makes such neglect legally void rather than merely regrettable; Article 3.10.7 makes the pattern, if it exists, visible to the public rather than dependent on investigative journalism to surface it case by case.*
+
+**Cross-references:** 3.10.1–3.10.5; 37-integrity-branch (Integrity Branch); 27-transparency-and-accountability.

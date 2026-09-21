@@ -36,3 +36,13 @@
 *The absolute exclusion of torture-derived evidence, including its derivatives, gives constitutional rank to the rule of the United Nations Convention against Torture that such statements shall not be invoked; a regime that admits torture-derived corroboration still purchases torture, so the taint is treated as incurable. Lesser violations are governed by a fairness-and-reliability test rather than automatic exclusion, which keeps the sanction proportionate to the wrong. Disclosure of favorable material stands beside the exclusion rules because a trial can be no fairer than the file the defense actually sees.*
 
 **Cross-references:** Article 15.3.5 (Exclusionary Effect); Article 14.2.1 (Legality); Article 17.8.2 (Authentication and Integrity).
+
+## Anti-Capture Amendment — Independent Collection and Tamper Liability
+
+**Article 15.4.6 (Independent Forensic Collection).** Medical and forensic evidence in any case involving death, grievous bodily harm, or an offense connected to a public official or a person in that official's household shall be collected and examined by personnel of an independent forensic authority, answerable to the judiciary and not to local executive or police administration, wherever such an authority is reasonably accessible.
+
+**Article 15.4.7 (Criminal Liability for Tampering).** A person who falsifies, substitutes, discards, or destroys evidence entrusted to their custody, and a person who orders or procures such an act, each commit a non-bailable offense carrying a mandatory minimum sentence fixed by law, without distinction of rank or office.
+
+*Design Note (Amendment): Article 15.4.4 already treats an unexplained gap in the chain of custody as weighing against an exhibit — a sound rule once evidence has entered the chain. The gap this Amendment closes is upstream of that: the point of first collection, typically inside a hospital or a local station, where a single compromised actor can substitute or soften evidence before any chain-of-custody log even begins. Independence of the collecting authority and personal criminal liability, applied equally regardless of who gives the order, are addressed to that specific point of failure.*
+
+**Cross-references:** 15.4.1–15.4.5; 14-criminal-law/corruption.md; 05-judiciary/judicial-appointments.md.

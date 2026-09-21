@@ -1,7 +1,7 @@
 # WC-207 · The Sovereign Wealth and Stabilisation Fund
 
-> **Part 08 — Economic Order** · Document **207 / 300** · World Constitution (WC) v1.0
-> [Index](../INDEX.md) · [README](../README.md) · [Sources](../SOURCES.md)
+> **Part 41 — Economic Order Extended** · Source: World Constitution v1.0 corpus, document 207/300 (adapted) · This edition v1.0.1
+> [README](../README.md) · [Glossary](../GLOSSARY.md)
 
 **Subject.** Saving windfalls for the many and the future
 
@@ -58,10 +58,9 @@ Sovereign funds fail exactly where the corpus is strongest: opaque politics raid
 
 ## Cross-references
 
-- [WC-046 · Rights of Future Generations](../02-rights-and-liberties/046-future-generations.md)
-- [WC-206 · Natural Resource Governance](206-natural-resources.md)
-- [WC-076 · Independent Constitutional Organs](../03-governance/076-independent-bodies.md)
-
+- [WC-046 · Rights of Future Generations](../02-rights-and-liberties/046-future-generations.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-206 · Natural Resource Governance](206-natural-resources.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
+- [WC-076 · Independent Constitutional Organs](../03-governance/076-independent-bodies.md) — ⚠ not present in this edition (source-corpus reference; not yet adapted)
 ## Notes for adopting states
 
 - Fiscal rules require the independent fiscal council to be credible; appoint it before the first budget under the new regime.
@@ -69,4 +68,4 @@ Sovereign funds fail exactly where the corpus is strongest: opaque politics raid
 - The debt brake and the sovereign fund are intergenerational instruments; adopt them early, govern them forever.
 
 ---
-*World Constitution (WC) v1.0 · Model Edition 2026 · This file is model law offered for national adoption under CC BY 4.0. It is not legal advice.*
+*Adapted from the World Constitution v1.0 corpus (CC BY 4.0) into this edition. This edition as a whole is dedicated to the public domain under CC0 1.0 — see LICENSE.md. This file is model law for a fictional state; it is not legal advice.*
